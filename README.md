@@ -1,6 +1,6 @@
 # A-Simple-Calculator-
 A simple calculator using HTML, CSS, and Javascript 
-This a simple calculator ,all the functionalities in calculator is achieved using Javascript language.
+This is a simple calculator ,all the functionalities in  the calculator is achieved using Javascript language.
 
 ##Technologies used for this calculator:
 
